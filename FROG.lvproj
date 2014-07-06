@@ -36,7 +36,6 @@
 			</Item>
 			<Item Name="Simple State Machine Documentation.html" Type="Document" URL="../documentation/Simple State Machine Documentation.html"/>
 		</Item>
-		<Item Name="Type Definitions" Type="Folder"/>
 		<Item Name="subpanel" Type="Folder" URL="../subpanel">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
